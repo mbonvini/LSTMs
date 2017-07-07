@@ -20,3 +20,7 @@ Posts - Tutorials
 - https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b?
 - http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
 - http://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
+
+API reference
+
+- https://www.tensorflow.org/api_guides/python/contrib.rnn

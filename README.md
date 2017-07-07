@@ -18,3 +18,5 @@ Posts - Tutorials
 - https://medium.com/@erikhallstrm/using-the-dynamicrnn-api-in-tensorflow-7237aba7f7ea
 - https://medium.com/@erikhallstrm/using-the-dropout-api-in-tensorflow-2b2e6561dfeb
 - https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b?
+- http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+- http://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
